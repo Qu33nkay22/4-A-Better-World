@@ -1,0 +1,41 @@
+.volunteer-container {
+    background-color: #3ca2a6;
+    border-radius: 5px;
+    box-shadow: 2px 4px 6px rgb(78, 77, 77);
+}
+
+.volunteer-title {
+    font-family: "Bungee Spice", sans-serif;
+}
+
+.volunteer-container, form  {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+ p {
+    color: #324028;
+    text-shadow: 1px 1px 1px #a2e2cd;
+    text-align: center;
+    margin: 20px auto;
+    width: 70%;
+}
+
+.volunteer-label {
+    font-weight: bold;
+    color: #ccc675;
+    text-shadow: 2px 2px 1px #324028;
+    font-size: 1.5rem;
+}
+
+.volunteer-input, .volunteer-textarea {
+    padding: 10px;
+    width: 100%;
+    margin: 10px auto;
+    border: 4px solid #324028;
+}
+
+.volunteer-textarea {
+    padding-bottom: 50px;
+}

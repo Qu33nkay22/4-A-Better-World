@@ -1,0 +1,15 @@
+.search-bar {
+    display: inline;
+    justify-content: flex-end;
+    float: inline-end;
+    padding-top: 9px;
+    
+  }
+  
+  .search-bar input {
+    width: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #ccc675;
+    font-size: 1em;
+  }

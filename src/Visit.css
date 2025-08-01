@@ -1,0 +1,160 @@
+
+
+.hero {
+    position: relative;
+    display: inline-block;
+  }
+  
+.hero img {
+
+    justify-content: center;
+    display: flex;
+    padding: 0;
+    margin: auto;
+    width: 100%;
+}
+
+.visit {
+    justify-content: center;
+    width: 80%;
+    
+    color: #324028;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4;
+    margin: 30px;
+    padding: 60px;
+    z-index: 1;
+    background-image: url("./images/lake-ilonaBurschl-pixabay.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+
+  .location, .hours-park  {
+    background-color: #a2e2cd;
+    padding: 40px;
+    box-shadow: 2px 4px 12px #000;
+  }
+
+.visit b {
+    color: #324028;
+}
+  
+
+.visit h2, .location {
+    text-align: left;
+
+}
+
+.visit ul li {
+    list-style-type: none;
+}
+
+.hours-park h2 {
+    justify-content: center;
+}
+
+
+.location {
+    padding-right: 40px;
+}
+
+h2 {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background: #324028;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; /* for non-webkit browsers */
+    color: transparent;
+    font-size: 2.5rem;
+  }
+
+  h4 {
+    margin-left: 20px;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #324028;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; /* for non-webkit browsers */
+    color: transparent;
+    font-size: 2.5rem;
+    margin-bottom: 0;
+  }
+  
+  
+  .text {
+    margin-top: 20px;
+    width: 70%;
+    padding: 20px;
+    font-size: 24px;
+  }
+
+  table {
+    background-color: #a2e2cd;
+    padding:  0;
+    border: 1px solid #324028;
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  table thead td {
+    text-align: center;
+    background-color: #324028;
+    color: #a2e2cd;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+   font-size: 2.5rem;
+   font-weight: bold;
+  border: 2px solid #d4fad1;
+  }
+
+
+  tr:nth-child(even) {
+    background-color: #8cc1af;
+  }
+
+
+  table tr td {
+    padding: 10px 50px;
+    margin: 40px;
+    font-size: 1.2rem;
+    font-family: "Prompt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  td {
+    border-bottom: 1px solid #324028;
+  }
+
+  
+@media screen and (max-width: 768px) {
+    .visit {
+      position: static; /* Removes absolute positioning */
+      transform: none;
+      width: 100%;
+      margin-top: 20px;
+      padding: 20px;
+    }
+  
+    .hero {
+      text-align: center;
+    }
+  
+    .location {
+      padding-right: 0;
+    }
+  
+    .visit h2, .location, .hours-park {
+      text-align: center;
+    }
+  }

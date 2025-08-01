@@ -1,0 +1,64 @@
+.hero img {
+    display: flex;
+    padding: 0;
+    margin: auto;
+    width: 80%;
+
+}
+
+
+
+
+.mission p{
+    padding: 20px;
+}
+
+.mission h2 {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background: #324028;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; /* for non-webkit browsers */
+    color: transparent;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+.icon-row {
+    display: flex;
+    justify-content: center;
+    gap: 40px; /* spacing between icons */
+    flex-wrap: wrap; /* makes it responsive */
+    margin-top: 20px;
+    padding: 0 70px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.icons img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.icons button {
+    padding: 10px 20px;
+    background-color: #3ca2a6;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.icons button:hover {
+    background-color: #2a777a;
+}
+

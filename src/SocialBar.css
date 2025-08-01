@@ -1,0 +1,29 @@
+.social-bar {
+    display: flex;
+    align-items: center;         /* vertically center the items */
+    justify-content: space-between; /* space between h1 and the list */
+    padding: 5px;
+    background-color: rgb(58, 57, 57);
+}
+
+.social-bar h1 {
+    margin: 0;
+    color: #d4f4d1;
+    text-align: center;
+}
+
+ul.socials {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.socials li {
+    padding: 5px;
+}
+
+.fa-brands {
+    color: #d4f4d1;
+}
