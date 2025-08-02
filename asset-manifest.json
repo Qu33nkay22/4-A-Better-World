@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/4-A-Better-World/static/css/main.948b6e70.css",
+    "main.js": "/4-A-Better-World/static/js/main.e050c42e.js",
+    "static/media/turtle-img3.jpg": "/4-A-Better-World/static/media/turtle-img3.f994efc3c352a83a1767.jpg",
+    "static/media/turtle-img4.jpg": "/4-A-Better-World/static/media/turtle-img4.dd5e75dc9ad7a710c8b6.jpg",
+    "static/media/turtle-img5.jpg": "/4-A-Better-World/static/media/turtle-img5.cf6d8560064595e62fce.jpg",
+    "static/media/turtle-img2.jpg": "/4-A-Better-World/static/media/turtle-img2.955b7957ded0326a30ab.jpg",
+    "static/media/turtle-img.jpg": "/4-A-Better-World/static/media/turtle-img.1bf348237215bdc0433c.jpg",
+    "static/media/chatGPT-SignUp.png": "/4-A-Better-World/static/media/chatGPT-SignUp.6703223a721bd317ded0.png",
+    "static/media/chatGPT-Donate.png": "/4-A-Better-World/static/media/chatGPT-Donate.723da703d2d7c5cc8259.png",
+    "static/media/chatPGT-Volunteer.png": "/4-A-Better-World/static/media/chatPGT-Volunteer.f0bfc51a7257f88be13e.png",
+    "static/media/pexels-catchavibe-natureTrail.jpg": "/4-A-Better-World/static/media/pexels-catchavibe-natureTrail.b3ff51eb88810a6ae362.jpg",
+    "static/media/lake-ilonaBurschl-pixabay.jpg": "/4-A-Better-World/static/media/lake-ilonaBurschl-pixabay.41cabdc665fd495f615d.jpg",
+    "static/media/pexels-katerina-holmes-teacherStudent.jpg": "/4-A-Better-World/static/media/pexels-katerina-holmes-teacherStudent.64fa5803dc26f8cc27d3.jpg",
+    "static/media/pexels-tatianasyrikova-dig.jpg": "/4-A-Better-World/static/media/pexels-tatianasyrikova-dig.dbd6f506516e8b00cc1a.jpg",
+    "static/media/percy-pastel1.jpg": "/4-A-Better-World/static/media/percy-pastel1.41e49bf8a870f3b083a4.jpg",
+    "static/media/pexels-mart-production-classroom.jpg": "/4-A-Better-World/static/media/pexels-mart-production-classroom.8ccdbeffabb3f5eab599.jpg",
+    "static/media/pexels-cristian-pettingZoo.jpg": "/4-A-Better-World/static/media/pexels-cristian-pettingZoo.3aa2dc5d6b04c560f6bc.jpg",
+    "static/media/pexels-cottonbro-gardening.jpg": "/4-A-Better-World/static/media/pexels-cottonbro-gardening.4d2c7e537f9cfef8a943.jpg",
+    "static/media/pexels-vanessa-loring-scienceFair.jpg": "/4-A-Better-World/static/media/pexels-vanessa-loring-scienceFair.36120988ff450e0260c5.jpg",
+    "index.html": "/4-A-Better-World/index.html",
+    "main.948b6e70.css.map": "/4-A-Better-World/static/css/main.948b6e70.css.map",
+    "main.e050c42e.js.map": "/4-A-Better-World/static/js/main.e050c42e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.948b6e70.css",
+    "static/js/main.e050c42e.js"
+  ]
+}
